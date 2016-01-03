@@ -1,0 +1,8 @@
+https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
+http://scikit-learn.org/
+http://www.nltk.org/book/
+https://en.wikipedia.org/
+http://pandas.pydata.org/pandas-docs/stable/10min.html
+http://stanford.edu/~mwaskom/software/seaborn/examples/index.html
+http://matplotlib.org/users/index.html
+https://www.amazon.com/gp/video/detail/B001AMVKO2
